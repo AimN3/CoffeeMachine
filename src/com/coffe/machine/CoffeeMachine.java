@@ -111,14 +111,11 @@ public class CoffeeMachine {
                 case 3:
                     coffee = new Cappuccino();
                     break;
-
                 default:
                     System.out.println("You didn't choose coffee");
-                    break;
+                    return;
             }
-
             ifEnough(coffee);
-
         }
 
 

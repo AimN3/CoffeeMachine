@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2236ea5b-27c9-4460-be7a-7c65c860bc6e" name="Default Changelist" comment="" />
+    <list default="true" id="2236ea5b-27c9-4460-be7a-7c65c860bc6e" name="Default Changelist" comment="The error NullPointExeption has been fixed">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Cappuccino.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Cappuccino.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/CoffeeMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/CoffeeMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Espresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Espresso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Latte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoffeeMachine/com/coffe/machine/Latte.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coffe/machine/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coffe/machine/Cappuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coffe/machine/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coffe/machine/CoffeeMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coffe/machine/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coffe/machine/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coffe/machine/Latte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coffe/machine/Latte.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +26,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aoNNo7CCxSutHahPBImxAdUO7w" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,5 +78,20 @@
       <updated>1587397948676</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The error NullPointExeption has been fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="The error NullPointExeption has been fixed" />
   </component>
 </project>

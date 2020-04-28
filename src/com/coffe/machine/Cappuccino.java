@@ -8,23 +8,23 @@ public class Cappuccino extends Coffee {
     protected static final int cost = 6;
 
 
-    @Override
+
     public int getWater() {
-        return this.getWater();
+        return water;
     }
 
-    @Override
+
     public int getMilk() {
-        return this.getMilk();
+        return milk;
     }
 
-    @Override
+
     public int getCoffeeBeans() {
-        return this.getCoffeeBeans();
+        return coffeeBeans;
     }
 
-    @Override
+
     public int getCost() {
-        return this.getCost();
+        return cost;
     }
 }
